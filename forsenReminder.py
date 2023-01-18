@@ -12,6 +12,6 @@ headers = {
 response = requests.request("GET", url, headers=headers)
 
 if response.text == "{}" :
-    print ("forsen is ded feelsbadman")
+    print ("FORSEN IS DED PepeHands")
 else:
     print("LIVE KKool GuitarTime")
