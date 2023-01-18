@@ -14,4 +14,4 @@ response = requests.request("GET", url, headers=headers)
 if response.text == "{}" :
     print ("forsen is ded feelsbadman")
 else:
-    print("LIVE KKool playing guitar")
+    print("LIVE KKool GuitarTime")
